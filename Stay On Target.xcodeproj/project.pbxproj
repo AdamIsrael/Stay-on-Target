@@ -13,6 +13,7 @@
 		8E43CEF719539CDA005B1939 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E43CEF619539CDA005B1939 /* Images.xcassets */; };
 		8E43CEFA19539CDA005B1939 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E43CEF819539CDA005B1939 /* MainMenu.xib */; };
 		8E43CF0619539CDA005B1939 /* Stay_On_TargetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E43CF0519539CDA005B1939 /* Stay_On_TargetTests.swift */; };
+		8E43CF101953B88F005B1939 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8E43CF0F1953B88F005B1939 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8E43CEFF19539CDA005B1939 /* Stay On TargetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Stay On TargetTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E43CF0419539CDA005B1939 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8E43CF0519539CDA005B1939 /* Stay_On_TargetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stay_On_TargetTests.swift; sourceTree = "<group>"; };
+		8E43CF0F1953B88F005B1939 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				8E43CEF119539CD9005B1939 /* AppDelegate.swift */,
 				8E43CEF619539CDA005B1939 /* Images.xcassets */,
 				8E43CEF819539CDA005B1939 /* MainMenu.xib */,
+				8E43CF0F1953B88F005B1939 /* README.md */,
 				8E43CEF319539CD9005B1939 /* Stay_On_Target.xcdatamodeld */,
 				8E43CEED19539CD9005B1939 /* Supporting Files */,
 			);
@@ -214,6 +217,7 @@
 			files = (
 				8E43CEF519539CD9005B1939 /* Stay_On_Target.xcdatamodeld in Sources */,
 				8E43CEF219539CD9005B1939 /* AppDelegate.swift in Sources */,
+				8E43CF101953B88F005B1939 /* README.md in Sources */,
 				8E43CEF019539CD9005B1939 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
